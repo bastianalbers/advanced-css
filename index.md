@@ -34,7 +34,7 @@ Have fun!
 
 # The course
 
-* [Transition](/core/transition.html)
+* [Transition](core/transition.html)
 * [Animation](core/animation.html)
 * [Responsive Design](core/responsive.html)
 * [Css for mobile](core/mobile.html)
