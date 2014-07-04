@@ -1,5 +1,5 @@
 permalinks: title
-baseurl: 
+baseurl: advanced-css/
 map:
  - title: Home
    path: http://localhost:3000
