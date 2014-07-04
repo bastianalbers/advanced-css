@@ -8,14 +8,14 @@ map:
    caption: The workshop content
    subpages:
      - title: Transition
-       path:  /core/transition.html
+       path:  core/transition.html
      - title: Animation
-       path:  /core/animation.html
+       path:  core/animation.html
      - title: Responsive Design
-       path:  /core/responsive.html
+       path:  core/responsive.html
      - title: Css for mobile
-       path:  /core/mobile.html
+       path:  core/mobile.html
      - title: Sass and Less
-       path:  /core/sass-less.html  
+       path:  core/sass-less.html  
      - title: Framework Twitter Boostrap
-       path:  /core/framework.html
+       path:  core/framework.html
